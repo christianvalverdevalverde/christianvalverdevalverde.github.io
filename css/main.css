@@ -9,6 +9,8 @@ html{
   background-color: #ef3829;
   min-height: 30px;
   width: 100%;
+  color: white;
+  align-content: center;
 }
 .contenedor{
   display: flex;
