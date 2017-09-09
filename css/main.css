@@ -1,0 +1,16 @@
+html,body{
+  width: 100%
+}
+html{
+
+}
+.cabecera{
+  display: flex;
+  background-color: #ef3829;
+  min-height: 30px;
+  width: 100%;
+}
+.contenedor{
+  display: flex;
+  align-items: center;
+}
